@@ -1,5 +1,5 @@
 # The Difference Between Service Animals and Emotional Support Animals.
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadvancedcaninetechniques.com%2F2018%2F07%2Fservice-dogs-vs-emotional-support-dogs-vs-therapy-dogs%2F&psig=AOvVaw09CxAKMo4rpvkcvK4SIoPj&ust=1696884271119000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCfl9Wo54EDFQAAAAAdAAAAABAQ)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadvancedcaninetechniques.com%2F2018%2F07%2Fservice-dogs-vs-emotional-support-dogs-vs-therapy-dogs%2F&psig=AOvVaw09CxAKMo4rpvkcvK4SIoPj&ust=1696884271119000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCfl9Wo54EDFQAAAAAdAAAAABAQ)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 

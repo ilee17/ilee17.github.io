@@ -1,5 +1,5 @@
 # The Difference Between Service Animals and Emotional Support Animals.
-![image](https://advancedcaninetechniques.com/wp-content/uploads/2018/07/unnamed-2.jpg)
+![image][ServiceVSESA.jpeg]
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
@@ -26,3 +26,5 @@ One or several paragraphs for subsection 3.
 1. Reference 1
 2. Reference 2
 3. Reference 3
+
+[def]: ServiceVSESA.jpeg

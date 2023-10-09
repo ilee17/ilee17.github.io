@@ -24,7 +24,7 @@ Emotional Support Animals or ESA animals help boost our mental health. ESA anima
 Unlike service animals, emotional support animals are limited in where they can be with their humans. Both service and emotional support animals can be prescribed by your doctor but there is a big difference between the 2. Emotional support animals help their humans cope with every day stressors while service animals go through specific training to help people with disabilities do every day things.
 
 ### See more
-Here is a video of the legal differences between Service animals and Emotional Support [animals]("https://player.vimeo.com/video/537505220?h=b779cea63c")
+Here is a video of the legal differences between Service animals and Emotional Support animals "https://player.vimeo.com/video/537505220?h=b779cea63c"
 
 ## References
 - [Learn more about FAQ regarding Service Animals](https://www.ada.gov/resources/service-animals-faqs/#:~:text=Dogs%20can%20be%20trained%20to,hearing%20loss%20when%20someone%20is)

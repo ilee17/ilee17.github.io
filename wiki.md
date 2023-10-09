@@ -1,5 +1,5 @@
 # The Difference Between Service Animals and Emotional Support Animals.
-![image][ServiceVSESA.jpeg]
+![image](ServiceVSESA.jpeg)
 
 Mental health is something that is not talked about enough. This page will provide a breif description explaination of the differences between **Service Animals** and **Emotional support animals**.
 
